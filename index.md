@@ -108,7 +108,7 @@
 ## 11. Изменения политики
 
 Мы можем время от времени обновлять данную Политику.  
-Актуальная версия будет опубликована по ссылке: https://vanyaparen.github.io/privacy-policy-tattoo-bot 
+Актуальная версия будет опубликована по ссылке: [https://vanyaparen.github.io/privacy-policy-tattoo-bot](https://vanyaparen.github.io/privacy-policy-tattoo-bot). 
 Рекомендуем регулярно её проверять.
 
 ---
